@@ -226,126 +226,105 @@ function create_config( )
     "Feedback",
     "Cover"
     },
-    sudo_users = {94704012},--Sudo users
+    sudo_users = {121122782},--Sudo users
     disabled_channels = {},
-    realm = {53167206},--Realms Id
+    realm = {109804001},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V5.5.2
-    Admins
-    @WilSoN_DeVeLoPeR
-    
-    Special thanks to
-    @Nope_Nope_Nope (Alfred)
-    
-    nour channel
-    @W_SaTaN_w_chnnl",]],
+    about_text = [SilVeR-BoT V5.5.2
+ ☑️SilVeR-RoBoT☑️
+
+⚜ This Is Old BoT Of Telegram ⚜
+
+💯~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~💯
+💊💉👾🎭
+🔘Admin
+           ✅@Mr_SilVeR1[Developer,sudo]
+
+🔱〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰🔱
+⚔☠
+🤖 This BoT Is a Best BoT 🤖
+
+😈 This BoT Can Fuck All OF The Sapmmers 😈
+⚠️〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰⚠️
+🔵Our Channel:
+@Silverbotchannel",]],
     help_text = [[
-Commands list :
-
-!kick [username|id]
-You can also do it by reply
-
-!ban [ username|id]
-You can also do it by reply
-
-!unban [id]
-You can also do it by reply
-
-!who
-Members list
-
-!modlist
-Moderators list
-
-!promote [username]
-Promote someone
-
-!demote [username]
-Demote someone
-
-!kickme
-Will kick user
-
-!about
-Group description
-
-!setphoto
-Set and locks group photo
-
-!setname [name]
-Set group name
-
-!rules
-Group rules
-
-!id
-return group id or user id
-
-!help
-
-!lock [member|name|bots]
-Locks [member|name|bots] 
-
-!unlock [member|name|photo|bots]
-Unlocks [member|name|photo|bots]
-
-!set rules <text>
-Set <text> as rules
-
-!set about <text>
-Set <text> as about
-
-!settings
-Returns group settings
-
-!newlink
-create/revoke your group link
-
-!link
-returns group link
-
-!owner
-returns group owner id
-
-!setowner [id]
-Will set id as owner
-
-!setflood [value]
-Set [value] as flood sensitivity
-
-!stats
-Simple message statistics
-
-!save [value] <text>
-Save <text> as [value]
-
-!get [value]
-Returns text of [value]
-
-!clean [modlist|rules|about]
-Will clear [modlist|rules|about] and set it to nil
-
-!res [username]
-returns user id
-"!res @username"
-
-!log
-will return group logs
-
-!banlist
-will return group ban list
-
-**U can use both "/" and "!" 
-
-
-*Only owner and mods can add bots in group
-
-
-*Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
-
-*Only owner can use res,setowner,promote,demote and log commands
-
-Creator: @WilSoN_DeVeLoPeR.
+Silver bots Help for mods : 😈
+Plugins : 🔻
+1. banhammer ⭕️
+Help For Banhammer👇
+!Kick @UserName 😜
+And You Can do It by Replay 🙈
+!Ban @UserName 〽️
+You Can Do It By Replay👌
+!Unban @UserName
+You Can Do it By Replay😱
+For Admins : 👇
+!banall @UserName or (user_id)😺
+you Can do it By Replay 👤
+!unbanall 🆔User_Id🆔
+〰〰〰〰〰〰〰〰〰〰
+2. GroupManager :🔹
+!Creategroup "GroupName" 🙈
+You Can CreateGroup With this command😱
+!setflood😃
+Set the group flood control🈹
+!settings ❌
+Watch group settings
+!owner🚫
+watch group owner
+!setowner user_id❗️
+You can set someone to the group owner‼️
+!modlist💯
+watch Group mods🔆
+!lock (bots-member-flood-photo-name-Arabic-english-tag-join-link)✅
+lock Something🚼
+!unlock (bots-member-flood-photo-name-Arabic-english-tag-join-link)✅
+Unlock Something🚼
+!rules 🆙 or !set rules🆗
+watch group rules or set
+!about or !set about 🔴
+!res @username🔘
+See UserInfo©
+!who♦️
+Get Ids Chat🔺
+!log 🎴
+get members id ♠️
+!all🔴
+this is like stats in a file🔸
+added !clink *
+and !glink :)
+〰〰〰〰〰〰〰〰
+Admins :®
+!add 😎
+You Can add the group to moderation.json😱
+!rem😏
+You Can Remove the group from mod.json⭕️
+!setgpowner (Gpid) user_id ⚫️
+from realm®®
+!addadmin 🔶
+set some one to global admin🔸
+!removeadmin🔘
+remove somone from global admin🔹
+〰〰〰〰〰〰〰〰〰〰〰
+3. Stats :©
+!stats silverbot (sudoers)✔️
+shows bt stats🔚
+!stats🔘
+shows group stats💲
+〰〰〰〰〰〰〰〰
+4. Feedback⚫️
+!feedback txt🔻◼️
+send maseage to admins via bot🔈
+〰〰〰〰〰〰〰〰〰〰〰
+5. Tagall◻️
+!tagall txt🔸
+will tag users©
+〰〰〰〰〰〰〰〰〰
+🔜 more plugins 
+⚠️ We are SilVeR-TeaM ... ⚠️
+our channel : @Silverbotchannel🔋
+You Can user both "!" & "/" for them🎧
 ]]
 
   }
